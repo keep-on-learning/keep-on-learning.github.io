@@ -1,3 +1,9 @@
+---
+layout: page
+title: Disqus Policy
+permalink: /disqus_policy/
+---
+
 We want you to enjoy your stay here as much as possible and to do so, please abide by these guidelines:
 
 Don't be a jerk.
