@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Start der neuen Lernplattform Keep-On-Learning
 ---
 
