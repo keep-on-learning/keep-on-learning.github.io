@@ -11,3 +11,7 @@ Das Ziel hinter dieser Unternehmung ist eine Plattform zu schaffen, die es Inter
 ### Kontakt
 
 [webmasterATkeep-on-learning.de](mailto:webmaster@keep-on-learning.de)
+
+### Impressum
+
+<a href="{{ site.baseurl }}/impressum">Impressumj</a>
