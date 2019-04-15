@@ -46,7 +46,7 @@ Theme Styles
 /* 373737 - 212121 */
 body {
   box-sizing: border-box;
-  color:#373737;
+  color:#fbff00;
   background: #ff0000;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
@@ -54,10 +54,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* #222222 */
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
+  color:#0011ff;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -93,13 +94,15 @@ p {
   margin: 10px 0 15px 0;
 }
 
+/* f2f2f2 */
 footer p {
-  color: #f2f2f2;
+  color: #15ff00;
 }
 
+/* 0F79D0 */
 a {
   text-decoration: none;
-  color: #0F79D0;
+  color: rgb(229, 255, 0);
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -118,8 +121,9 @@ a:hover, a:focus {
   text-decoration: underline;
 }
 
+/* F2F2F2 */
 footer a {
-  color: #F2F2F2;
+  color: rgb(255, 174, 0);
   text-decoration: underline;
 }
 
@@ -154,10 +158,11 @@ p img {
   text-align: center;
   border: none;
 }
-
+ 
+/* 222 - fff*/
 pre, code {
-  color: #222;
-  background-color: #fff;
+  color: rgb(73, 61, 61);
+  background-color: rgb(88, 104, 29);
 
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 14px;
@@ -167,9 +172,10 @@ pre, code {
   -webkit-border-radius: 2px;
 }
 
+/* rgba(0,0,0,.1) */
 pre {
   padding: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
+  box-shadow: 0 0 10px rgba(114, 227, 235, 0.1);
   overflow: auto;
 }
 
@@ -184,11 +190,12 @@ pre code {
   box-shadow: none;
 }
 
+/* 666 - bbb */
 blockquote {
-  color: #666;
+  color: rgb(173, 139, 139);
   margin-bottom: 20px;
   padding: 0 0 0 20px;
-  border-left: 3px solid #bbb;
+  border-left: 3px solid rgb(90, 94, 56);
 }
 
 
@@ -235,10 +242,11 @@ table {
   text-align: left;
  }
 
+ /* 373737 */
 th {
   font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 10px;
-  background: #373737;
+  background: #ff20ff;
   color: #fff;
  }
 
@@ -297,14 +305,14 @@ Full-Width Styles
 
 #project_title {
   margin: 0;
-  color: #fff;
+  color: rgb(109, 177, 0);
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
 
 #project_tagline {
-  color: #fff;
+  color: rgba(255, 255, 255, 0.185);
   font-size: 24px;
   font-weight: 300;
   background: none;
