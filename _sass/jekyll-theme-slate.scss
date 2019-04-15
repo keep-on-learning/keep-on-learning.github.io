@@ -58,7 +58,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:rgba(49, 53, 80, 0.75);
+  color:rgba(255, 255, 255, 1);
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -96,14 +96,13 @@ p {
 
 /* f2f2f2 */
 footer p {
-  color: #15ff00;
+  color: #ffffff;
 }
 
 /* 0F79D0 */
 a {
   text-decoration: none;
-  color: #22beee;
-  text-shadow: none;
+  color: #4d5a55;
 
   transition: color 0.5s ease;
   transition: text-shadow 0.5s ease;
@@ -122,11 +121,15 @@ a:hover, a:focus {
 }
 
 header a {
-  color: #c6da25;
+  color: #85e62d;
 }
 
 footer a {
-  color: #c6da25;
+  color: #85e62d;
+  text-decoration: none;
+}
+
+footer a:hover, a:focus {
   text-decoration: underline;
 }
 
@@ -308,14 +311,14 @@ Full-Width Styles
 
 #project_title {
   margin: 0;
-  color: rgb(109, 177, 0);
+  color:rgba(224, 224, 224, 0.86);;
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
 
 #project_tagline {
-  color: rgba(255, 255, 255, 0.185);
+  color: rgba(224, 224, 224, 0.62);;
   font-size: 24px;
   font-weight: 300;
   background: none;
