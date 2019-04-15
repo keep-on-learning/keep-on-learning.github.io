@@ -85,6 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: pages-themes/slate
-
 theme: jekyll-theme-merlot
