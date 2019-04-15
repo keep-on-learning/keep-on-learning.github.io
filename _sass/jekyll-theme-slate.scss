@@ -46,8 +46,8 @@ Theme Styles
 /* 373737 - 212121 */
 body {
   box-sizing: border-box;
-  color:#fbff00;
-  background: #ff0000;
+  color:rgba(49, 53, 80, 0.75);
+  background: #212121;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -58,7 +58,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#0011ff;
+  color:rgba(49, 53, 80, 0.75);
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
