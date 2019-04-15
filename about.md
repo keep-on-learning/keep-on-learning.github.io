@@ -14,4 +14,4 @@ Das Ziel hinter dieser Unternehmung ist eine Plattform zu schaffen, die es Inter
 
 ### Impressum
 
-<a href="{{ site.baseurl }}/impressum">Impressumj</a>
+<a href="{{ site.baseurl }}/impressum">Impressum</a>
