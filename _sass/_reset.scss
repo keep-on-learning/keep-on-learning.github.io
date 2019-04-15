@@ -23,6 +23,13 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+.site-avatar {
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin-right: 15px;
+	
 // HTML5 display-role reset for older browsers
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
